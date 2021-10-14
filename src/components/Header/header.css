@@ -1,0 +1,25 @@
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: end;
+}
+nav ul li {
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+}
+
+.signup-btn {
+    background-color: #F91944;
+    color: #fff;
+    display: block;
+    padding: 5px 15px;
+    border-radius: 20px;
+}

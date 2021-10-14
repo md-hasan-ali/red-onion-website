@@ -1,0 +1,16 @@
+.single-food {
+    margin:5px;
+    padding:20px;
+    text-align: center;
+    transition:.4s;
+
+}
+.single-food img {
+    margin-bottom: 10px;
+    width: 180px;
+}
+.single-food:hover {
+    background-color: #eaeaea;
+    border-radius: 5px;
+    
+}
